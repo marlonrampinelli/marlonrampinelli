@@ -1,4 +1,4 @@
-# c4st13l@0x00:~$ cat whoami
+# c4st13l@0x00:~$ whoami
 - ### I'm Marlon Rampinelli (aka c4st13l)
 - ### Cybersecurity Student💻 && CTF🚩 && coffee☕
 
