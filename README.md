@@ -12,9 +12,6 @@
 
 ### CTF 🚩
 <p align="left">
-    <a href="https://tryhackme.com/badge/263689" target="_blank" rel="noreferrer"> 
-        <img src="https://tryhackme-badges.s3.amazonaws.com/castiel.png" alt="TryHackMe" width="210" height="50"/> 
-    </a>
     <a href="https://app.hackthebox.com/profile/266480" target="_blank" rel="noreferrer"> 
       <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" alt="HackTheBox" width="210" height="50"/> 
     </a>
